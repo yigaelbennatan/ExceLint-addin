@@ -71,7 +71,7 @@
     "typescript": "^3.8.2",
     "watchpack": "^1.6.0",
     "webassemblyjs": "^1.9.0",
-    "webpack": "^4.41.6",
+    "webpack": "^4.42.1",
     "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.10.3",
     "webpack-merge": "^4.2.2",
@@ -79,10 +79,11 @@
     "xlsx": "^0.15.5",
     "xregexp": "^4.3.0",
     "y18n": "^4.0.0",
-    "yargs": "^13.3.0",
+    "yargs": "^13.3.2",
     "yargs-parser": "^13.1.1"
   },
   "devDependencies": {
+    "@types/office-js-preview": "^1.0.85",
     "@types/office-js": "^1.0.76"
   }
 }
